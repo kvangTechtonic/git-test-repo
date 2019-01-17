@@ -1,3 +1,7 @@
 feature one content
 
+<<<<<<< HEAD
 more content
+=======
+add content
+>>>>>>> master
